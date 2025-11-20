@@ -43,8 +43,6 @@ thunar-volman
 mousepad
 
 
-pavucontrol
-pulseaudio
 mate-media
 
 
