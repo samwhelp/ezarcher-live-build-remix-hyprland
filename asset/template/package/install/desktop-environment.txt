@@ -28,8 +28,7 @@ nwg-look
 mako
 
 
-polkit-gnome
-#mate-polkit
+
 
 
 kitty
@@ -49,7 +48,7 @@ pulseaudio
 mate-media
 
 
-grimshot
+#grimshot
 #screengrab
 #xfce4-screenshooter
 
