@@ -90,7 +90,7 @@ xfce4-terminal
 ## ## Package / Terminal / cosmic-terminal
 ##
 
-cosmic-terminal
+#cosmic-terminal
 
 
 
